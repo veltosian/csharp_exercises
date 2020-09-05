@@ -7,6 +7,7 @@ namespace w3_exercises
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello emacs!");
         }
     }
 }
