@@ -4,7 +4,8 @@ using System.Text;
 
 namespace w3_exercises
 {
-    class Tests
+    public interface IUserInput
     {
+        int GetInt();
     }
 }
